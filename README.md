@@ -6,7 +6,7 @@ This project presents a custom 2-layer PCB designed for a biometric attendance d
 The design integrates power management, high-speed SPI routing, and mixed-signal layout considerations in a compact form factor.
 
 ---
-# 📄 Schematic Overview
+# Schematic Overview
 
 <p align="center">
   <img src="./images/Schematic_overview.png" width="800">
@@ -15,7 +15,7 @@ The design integrates power management, high-speed SPI routing, and mixed-signal
 ---
 
 
-## 📷 PCB Layout Overview
+## PCB Layout Overview
 
 ### Top Copper Layer
 <p align="center">
@@ -29,7 +29,7 @@ The design integrates power management, high-speed SPI routing, and mixed-signal
 
 ---
 
-## 🔥 Power Stage Layout (Buck Converter Optimization)
+## Power Stage Layout (Buck Converter Optimization)
 
 ### Buck Layout – Hot Loop Minimization
 <p align="center">
@@ -45,7 +45,7 @@ The TPS62130 switching regulator layout prioritizes:
 
 ---
 
-## 🧩 3D Board Rendering
+## 3D Board Rendering
 
 ### 3D Top View
 <p align="center">
